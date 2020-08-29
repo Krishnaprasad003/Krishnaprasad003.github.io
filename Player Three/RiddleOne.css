@@ -1,0 +1,17 @@
+h1{
+	text-align:center;
+	margin-top:25px;
+	background-color:rgba(143,166,143,0.4);
+}
+.beforecipher{
+	width: 600px;
+	height: 400px;
+	
+	position: absolute;
+	top:0;
+	bottom: 20;
+	left: 0;
+	right: 0;
+  	
+	margin: auto;
+}
